@@ -1,0 +1,67 @@
+.header{
+  text-align: center; 
+  font-size:40px;
+  color: #FFFF;
+}
+
+#logo{
+  float:left;
+  width: 170px;
+  height: 130px;
+}
+
+body{ 
+  background-color: #181e43;
+  font-family: 'Arial', cursive;
+}
+
+[class=titulo]{
+	float:left;
+	margin-left: 30px;
+	margin-top:40px;
+}
+
+[class=gameplay]{
+	margin-left: 50px;
+	font-size:20px;
+	border: solid;
+	border-radius:10px;
+	border-color:#FFFF;
+	padding:10px;
+	color:#F7DF42;
+	float:left;
+	margin-top:40px;
+}
+
+[class=itens]{
+	margin-left: 50px;
+	font-size:20px;
+	border: solid;
+	border-radius:10px;
+	padding:10px;
+	color:#F7DF42;
+	border-color:#FFFF;
+	float:left;
+	margin-top:40px;
+}
+
+[class=inscricao]{
+	margin-left: 50px;
+	font-size:20px;
+	border: solid;
+	border-radius:10px;
+	padding:10px;
+	color:#F7DF42;
+	border-color:#FFFF;
+	float:left;
+	margin-top:40px;
+}
+
+a {
+color: #F7DF42;
+text-decoration: none;
+}
+
+[class=video]{
+	padding-top:150px;
+}
